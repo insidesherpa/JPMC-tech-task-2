@@ -18,7 +18,7 @@
 <h2 id="task"> Module 2 Task Overview </h2>
 <p>Use JP Morgan frameworks and tools
 Implement JP Morgan’s Perspective open source code in preparation for data visualization</p>
-<p> <b>Aim:</b> We want to process the data feed of stock A and stock B’s price to enable us to analyse when trading for the stock should occur.</p>
+<p> <b>Aim:</b>Take an incomplete setup of Perspective and make it work with the code from Task 1</p>
 
 <ol>
 	<li>Please clone this repository to start the task</li>
