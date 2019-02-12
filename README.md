@@ -20,14 +20,11 @@
 Implement JP Morgan’s Perspective open source code in preparation for data visualization</p>
 <p> <b>Aim:</b> We want to process the data feed of stock A and stock B’s price to enable us to analyse when trading for the stock should occur.</p>
 
-## Tasks
-1. Whenever new data feed is retrieved, the previous entry was re-entered into the table. Update the application to make the table does not have duplicated entries.
-2. We want the react app to keep continuosly requests data from the python server. Currently, the data feed is called only once every time the 'Start Streaming' button is clicked. Change the application to continuously query the datafeed every 100ms when the 'Start Streaming' is clicked.
-3. Currently, the Perspective element only shows the data in table view after the data loads. Add Perspective configurations so that when the data is loaded, it shows the historical data of ask_price ABC in the Y line chart.
-
 <ol>
 	<li>Please clone this repository to start the task</li>
-	<li>Fix the errors in the implementation of Perspective</li>
+	<li>When new data feed is retrieved, the previous entry is re-entered into the table. Update the application so that the table does not have duplicated entries</li>
+	<li>We want the react app to keep continuosly requests data from the python server. Currently, the data feed is called only once every time the 'Start Streaming' button is clicked. Change the application to continuously query the datafeed every 100ms when the 'Start Streaming' is clicked.</li>
+	<li>Currently, the Perspective element only shows the data in table view after the data loads. Add Perspective configurations so that when the data is loaded, it shows the historical data of ask_price ABC in the Y line chart.</li>
 	<li>Upload a git patch file as the submission to this task</li>	
 </ol>
 
