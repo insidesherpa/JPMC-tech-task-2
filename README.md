@@ -35,7 +35,7 @@ Implement JP Morgan’s Perspective open source code in preparation for data vis
 
 Please ensure you are using <b> python2.7. </b>
 
-Similar to Task 1, please start the data feed server by running the python server
+Similar to Task 1, start the data feed server by running the python server
 
 <code> python2 datafeed/server.py </code>
 
