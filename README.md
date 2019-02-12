@@ -15,7 +15,7 @@
 <b> Experience Technology at Bank&MergeCo. </b>
 <p>Try out what real work is like in the technology team at Bank & Merge Co. Fast track to the tech team with your work.</p>
 
-<h2 id="task"> Module 1 Task Overview </h2>
+<h2 id="task"> Module 2 Task Overview </h2>
 <p>Use JP Morgan frameworks and tools
 Implement JP Morgan’s Perspective open source code in preparation for data visualization</p>
 <p> <b>Aim:</b> We want to process the data feed of stock A and stock B’s price to enable us to analyse when trading for the stock should occur.</p>
