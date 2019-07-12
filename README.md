@@ -11,7 +11,7 @@
 	<b><a href="https://www.insidesherpa.com/modules/R5iK7HMxJGBgaSbvk/88AisH7iuw3L5N5ig" target="_blank">Link to Module 2</a></b>
 
 <h1> Introduction</h1> 
-<b> Experience Technology at JP Morgan Chase. </b>
+<b> Experience Technology at JP Morgan Chase </b>
 <p>Try out what real work is like in the technology team JP Morgan Chase. Fast track to the tech team with your work.</p>
 
 <h2 id="task"> Module 2 Task Overview </h2>
