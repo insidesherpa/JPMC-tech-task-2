@@ -18,7 +18,7 @@
 <p>Try out what real work is like in the technology team JP Morgan Chase. Fast track to the tech team with your work.</p>
 
 <h2 id="task"> Module 2 Task Overview </h2>
-<p>Use JP Morgan's frameworks and tools
+<p>Use JP Morgan Chase's frameworks and tools
 Implement JP Morgan Chase’s Perspective open source code in preparation for data visualization</p>
 <p> <b>Aim:</b>Take an incomplete setup of Perspective and make it work with the code from Task 1</p>
 
