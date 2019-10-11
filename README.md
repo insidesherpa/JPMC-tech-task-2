@@ -44,7 +44,7 @@ If you don't have pip, you can install it from: https://pip.pypa.io/en/stable/in
 
 Run <code>npm install</code> to start the React application.
 
-To run the app in development mode, run <code>npm start</code> in the project directory.
+To run the app in development mode, run <code>npm start</code> in the project directory. Make sure to run your terminal/command prompt as administrator.
 
 Open http://localhost:3000 to view the app in the browser. The page will reload if you make edits.
 
