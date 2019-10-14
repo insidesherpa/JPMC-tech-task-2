@@ -34,7 +34,7 @@ Please ensure you are using <b> python2.7. </b>
 
 Similar to Task 1, start the data feed server by running the python server
 
-<code> python2 datafeed/server.py </code>
+<code> python datafeed/server.py </code>
 
 If you encounter an issue with `datautil.parser`, run this command: 
 
